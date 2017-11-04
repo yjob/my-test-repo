@@ -1,0 +1,2 @@
+Check the https url is accessible
+curl or wget?
